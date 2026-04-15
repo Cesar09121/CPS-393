@@ -1,4 +1,4 @@
-package CPS_393_Lab.exercise12;
+//package CPS_393_Lab.exercise12;
 
 public class SalesPerson {
     String name;
